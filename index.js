@@ -3,11 +3,6 @@ module.exports = {
   extends: [
     '@milosys/eslint-config-react',
   ],
-  parserOptions: {
-    ecmaFeature: {
-      jsx: true,
-    },
-  },
   plugins: [
     'react-native',
   ],
