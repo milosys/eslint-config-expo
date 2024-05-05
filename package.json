@@ -1,12 +1,12 @@
 {
   "name": "@milosys/eslint-config-expo",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "custom eslint config for milosys expo projects",
   "author": "Curt Commander <curtcommander@gmail.com>",
   "license": "UNLICENSED",
   "main": "index.js",
   "dependencies": {
-    "@milosys/eslint-config-react": "^0.0.6",
+    "@milosys/eslint-config-react": "^0.0.7",
     "eslint-plugin-react-native": "^4.1.0"
   }
 }
